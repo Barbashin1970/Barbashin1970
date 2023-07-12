@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Barbashin1970
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning QA Automation Java
-- 💞️ I’m looking to collaborate on DevSecOps
+- 👋 Hi, I’m Oleg 
+- 👀 I’m interested in QA and Java
+- 🌱 I’m currently learning on Java Rush
+- 💞️ I’m looking to collaborate in web/mobile/api Autotest Projects
 - 📫 How to reach me in Telegram @OlegBarbashin
 
 <!---
