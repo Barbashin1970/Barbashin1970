@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oleg 
-- 👀 I’m interested in QA and Java
-- 🌱 I’m currently learning on Java Rush
-- 💞️ I’m looking to collaborate in web/mobile/api Autotest Projects
+- 👀 I’m interested in AI Product Quality and Management
+- 🌱 I’m currently learning Prompt Engineering and AI Vibe Coding
+- 💞️ I’m looking to collaborate in AI Projects
 - 📫 How to reach me in Telegram @OlegBarbashin
 
 <!---
