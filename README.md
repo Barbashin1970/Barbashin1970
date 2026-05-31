@@ -100,7 +100,7 @@
 | Проект | Особенность | Открыть |
 |--------|-------------|---------|
 | **SOFIA** | Персональная ароматерапия по Юнгу и нумерологии | [![Open](https://img.shields.io/badge/▶_Открыть-7C3AED?style=for-the-badge)](https://sofia-europe.vercel.app/) |
-| **Harry Potter Quiz** | Квиз по вселенной HP | [![Open](https://img.shields.io/badge/▶_Открыть-92400E?style=for-the-badge)](https://harryquiz.vercel.app/home) |
+| **Harry Potter Quiz** | Квиз по вселенной HP | [![Open](https://img.shields.io/badge/▶_Открыть-92400E?style=for-the-badge)](https://harryquiz.vercel.app/) |
 
 ---
 
